@@ -1,4 +1,4 @@
-# Your Name — Resume & Portfolio
+# Chankit — Resume & Portfolio
 
 Welcome to my resume and portfolio repository!
 This repository serves as a central hub showcasing my professional experience, skills, and selected projects.
@@ -7,7 +7,7 @@ This repository serves as a central hub showcasing my professional experience, s
 ABOUT ME
 ------------------------------------------------------------
 
-I am a [your role] specializing in [key skills/technologies].
+I am a Chankit Mittal specializing in Automotive Software Test Engineer.
 I enjoy building efficient, scalable solutions and creating meaningful experiences through technology and design.
 
 If you're looking for someone who is [your strengths], feel free to explore this portfolio and connect with me.
@@ -79,3 +79,4 @@ HOW TO USE THIS REPOSITORY
 - Browse the code repositories linked within project files.
 
 If you’re a recruiter, hiring manager, or collaborator—thank you for visiting!
+
